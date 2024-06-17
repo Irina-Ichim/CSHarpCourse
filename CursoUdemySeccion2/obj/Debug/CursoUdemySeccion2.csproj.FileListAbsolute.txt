@@ -1,0 +1,7 @@
+C:\Users\proye\source\repos\CursoUdemySeccion2\CursoUdemySeccion2\bin\Debug\CursoUdemySeccion2.exe.config
+C:\Users\proye\source\repos\CursoUdemySeccion2\CursoUdemySeccion2\bin\Debug\CursoUdemySeccion2.exe
+C:\Users\proye\source\repos\CursoUdemySeccion2\CursoUdemySeccion2\bin\Debug\CursoUdemySeccion2.pdb
+C:\Users\proye\source\repos\CursoUdemySeccion2\CursoUdemySeccion2\obj\Debug\CursoUdemySeccion2.csproj.AssemblyReference.cache
+C:\Users\proye\source\repos\CursoUdemySeccion2\CursoUdemySeccion2\obj\Debug\CursoUdemySeccion2.csproj.CoreCompileInputs.cache
+C:\Users\proye\source\repos\CursoUdemySeccion2\CursoUdemySeccion2\obj\Debug\CursoUdemySeccion2.exe
+C:\Users\proye\source\repos\CursoUdemySeccion2\CursoUdemySeccion2\obj\Debug\CursoUdemySeccion2.pdb

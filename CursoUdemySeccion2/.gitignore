@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
+*.obj
+*.exe
+*.dll
+*.idb
+*.VC.db
+*.VC.opendb
+*.pyc
+__pycache__/
+build/
