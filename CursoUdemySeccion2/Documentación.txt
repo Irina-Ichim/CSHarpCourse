@@ -1,0 +1,19 @@
+﻿Visual Studio: 
+
+https://learn.microsoft.com/es-es/visualstudio/ide/use-solution-explorer?view=vs-2022
+
+Instalar VisualCode para Mac:
+https://visualstudio.microsoft.com/es/vs/mac/
+
+
+//Variables
+https://learn.microsoft.com/es-mx/dotnet/csharp/language-reference/builtin-types/value-types#built-in-value-types
+
+//Tipos numericos flotantes
+https://learn.microsoft.com/es-mx/dotnet/csharp/language-reference/builtin-types/floating-point-numeric-types
+
+//Tipos bool
+https://learn.microsoft.com/es-mx/dotnet/csharp/language-reference/builtin-types/bool
+
+//Tipos numericos flotantes
+https://learn.microsoft.com/es-mx/dotnet/csharp/language-reference/builtin-types/integral-numeric-types

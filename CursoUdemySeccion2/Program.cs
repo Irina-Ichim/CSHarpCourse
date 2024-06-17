@@ -32,6 +32,22 @@ namespace CursoUdemySeccion2
             ReadLine readline = new ReadLine();
             readline.PreguntarNombre();
 
+            // Crear una instancia de la clase ConvertirCadenaTipoNumerico
+            ConvertirCadenaTipoNumerico convertir = new ConvertirCadenaTipoNumerico();
+
+            // Llamar a los métodos para probar las diferentes conversiones
+            convertir.SumarNumeroConConvert();
+            convertir.SumarNumeroConParse();
+            convertir.SumarNumeroConTryParse();
+
+            // Crear una instancia de la clase ConversionExplicacion
+            ConversionExplicacion conversionExplicacion = new ConversionExplicacion();
+
+            // Llamar a los métodos para probar las diferentes conversiones con explicaciones
+            conversionExplicacion.SumarNumeroConConvert();
+            conversionExplicacion.SumarNumeroConParse();
+            conversionExplicacion.SumarNumeroConTryParse();
+
             // Mantener la consola abierta
             Console.WriteLine("Presiona cualquier tecla para salir...");
             Console.ReadKey();

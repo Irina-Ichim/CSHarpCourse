@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConversionExplicacion.cs" />
+    <Compile Include="ConvertirCadenaTipoNumerico.cs" />
     <Compile Include="OperadoresJerarquia.cs" />
     <Compile Include="PasosHorneado.cs" />
     <Compile Include="Program.cs" />
@@ -55,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include=".gitignore" />
+    <Content Include="Documentación.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
