@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConversionesSinString.cs" />
     <Compile Include="ConversionExplicacion.cs" />
     <Compile Include="ConvertirCadenaTipoNumerico.cs" />
     <Compile Include="OperadoresJerarquia.cs" />

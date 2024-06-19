@@ -48,6 +48,14 @@ namespace CursoUdemySeccion2
             conversionExplicacion.SumarNumeroConParse();
             conversionExplicacion.SumarNumeroConTryParse();
 
+            // Crear una instancia de la clase ConversionesSinString
+            ConversionesSinString conversiones = new ConversionesSinString();
+
+            // Llamar a los métodos para probar las diferentes conversiones
+            conversiones.SumarNumeroConConvert();
+            conversiones.SumarNumeroConParse();
+            conversiones.SumarNumeroConTryParse();
+
             // Mantener la consola abierta
             Console.WriteLine("Presiona cualquier tecla para salir...");
             Console.ReadKey();
