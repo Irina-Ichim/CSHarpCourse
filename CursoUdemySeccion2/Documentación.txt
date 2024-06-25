@@ -17,3 +17,44 @@ https://learn.microsoft.com/es-mx/dotnet/csharp/language-reference/builtin-types
 
 //Tipos numericos flotantes
 https://learn.microsoft.com/es-mx/dotnet/csharp/language-reference/builtin-types/integral-numeric-types
+
+
+//Diagramas
+https://www.lucidchart.com/pages/?
+https://www.drawio.com/
+
+
+//Ejemplo de programacion estructurada
+//1. Algoritmo_lista de pasos a seguir:
+
+INICIO
+1. Pedir altura
+2. Pedir ancho del rectangulo
+3. Calcular area multiplicando alto * ancho
+4. Calcular el perimetro
+5. Mostrar area
+6. Mostrar parametro
+FIN
+
+
+
+//2. pseudocodigo
+
+INICIO
+Variables: 
+       area, ancho, altura, perimetro: double
+
+Escribir("Dame la altura: ")
+Leer(altura)
+
+Escribir("Dame el ancho: ")
+Leer(ancho)
+
+area <-altura * ancho> 
+
+perimetro <- 2(altura+ancho) >
+
+Escribir (" El area es: ", area)
+Escribir("El parametro es: ", perimetro)
+
+FIN

@@ -56,6 +56,10 @@ namespace CursoUdemySeccion2
             conversiones.SumarNumeroConParse();
             conversiones.SumarNumeroConTryParse();
 
+            // Crear una instancia de la clase CalculoAreaPerimetro
+            CalculoAreaPerimetro calculo = new CalculoAreaPerimetro();
+            calculo.EjecutarCalculo();
+
             // Mantener la consola abierta
             Console.WriteLine("Presiona cualquier tecla para salir...");
             Console.ReadKey();

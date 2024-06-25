@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CalculoAreaPerimetro.cs" />
     <Compile Include="ConversionesSinString.cs" />
     <Compile Include="ConversionExplicacion.cs" />
     <Compile Include="ConvertirCadenaTipoNumerico.cs" />
