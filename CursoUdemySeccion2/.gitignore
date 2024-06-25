@@ -14,3 +14,6 @@
 *.pyc
 __pycache__/
 build/
+
+.vs/
+*.suo
