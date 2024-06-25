@@ -7,24 +7,12 @@
       "RelativeMoniker": "D:0:0:{FD5A9BF8-9E6B-46A5-8587-08FFE77BC09E}|CursoUdemySeccion2\\CursoUdemySeccion2.csproj|solutionrelative:cursoudemyseccion2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD5A9BF8-9E6B-46A5-8587-08FFE77BC09E}|CursoUdemySeccion2\\CursoUdemySeccion2.csproj|c:\\users\\proye\\source\\repos\\cursoudemyseccion2\\cursoudemyseccion2\\transformaciongrados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD5A9BF8-9E6B-46A5-8587-08FFE77BC09E}|CursoUdemySeccion2\\CursoUdemySeccion2.csproj|solutionrelative:cursoudemyseccion2\\transformaciongrados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD5A9BF8-9E6B-46A5-8587-08FFE77BC09E}|CursoUdemySeccion2\\CursoUdemySeccion2.csproj|c:\\users\\proye\\source\\repos\\cursoudemyseccion2\\cursoudemyseccion2\\calculoperimetropoligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD5A9BF8-9E6B-46A5-8587-08FFE77BC09E}|CursoUdemySeccion2\\CursoUdemySeccion2.csproj|solutionrelative:cursoudemyseccion2\\calculoperimetropoligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD5A9BF8-9E6B-46A5-8587-08FFE77BC09E}|CursoUdemySeccion2\\CursoUdemySeccion2.csproj|C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\cursoudemyseccion2\\calculoareaperimetro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD5A9BF8-9E6B-46A5-8587-08FFE77BC09E}|CursoUdemySeccion2\\CursoUdemySeccion2.csproj|solutionrelative:cursoudemyseccion2\\calculoareaperimetro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD5A9BF8-9E6B-46A5-8587-08FFE77BC09E}|CursoUdemySeccion2\\CursoUdemySeccion2.csproj|c:\\users\\proye\\source\\repos\\cursoudemyseccion2\\cursoudemyseccion2\\decisiones\\operadoresbooligualdad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD5A9BF8-9E6B-46A5-8587-08FFE77BC09E}|CursoUdemySeccion2\\CursoUdemySeccion2.csproj|solutionrelative:cursoudemyseccion2\\decisiones\\operadoresbooligualdad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD5A9BF8-9E6B-46A5-8587-08FFE77BC09E}|CursoUdemySeccion2\\CursoUdemySeccion2.csproj|C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\cursoudemyseccion2\\documentaci\u00F3n.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{FD5A9BF8-9E6B-46A5-8587-08FFE77BC09E}|CursoUdemySeccion2\\CursoUdemySeccion2.csproj|solutionrelative:cursoudemyseccion2\\documentaci\u00F3n.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD5A9BF8-9E6B-46A5-8587-08FFE77BC09E}|CursoUdemySeccion2\\CursoUdemySeccion2.csproj|C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\cursoudemyseccion2\\variablesejemplos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD5A9BF8-9E6B-46A5-8587-08FFE77BC09E}|CursoUdemySeccion2\\CursoUdemySeccion2.csproj|solutionrelative:cursoudemyseccion2\\variablesejemplos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD5A9BF8-9E6B-46A5-8587-08FFE77BC09E}|CursoUdemySeccion2\\CursoUdemySeccion2.csproj|C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\cursoudemyseccion2\\conversionessinstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,57 +34,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TransformacionGrados.cs",
-              "DocumentMoniker": "C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\CursoUdemySeccion2\\TransformacionGrados.cs",
-              "RelativeDocumentMoniker": "CursoUdemySeccion2\\TransformacionGrados.cs",
-              "ToolTip": "C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\CursoUdemySeccion2\\TransformacionGrados.cs",
-              "RelativeToolTip": "CursoUdemySeccion2\\TransformacionGrados.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Title": "OperadoresBoolIgualdad.cs",
+              "DocumentMoniker": "C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\CursoUdemySeccion2\\Decisiones\\OperadoresBoolIgualdad.cs",
+              "RelativeDocumentMoniker": "CursoUdemySeccion2\\Decisiones\\OperadoresBoolIgualdad.cs",
+              "ToolTip": "C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\CursoUdemySeccion2\\Decisiones\\OperadoresBoolIgualdad.cs",
+              "RelativeToolTip": "CursoUdemySeccion2\\Decisiones\\OperadoresBoolIgualdad.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAswDMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T09:19:07.49Z",
+              "WhenOpened": "2024-06-25T09:57:34.962Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CalculoPerimetroPoligono.cs",
-              "DocumentMoniker": "C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\CursoUdemySeccion2\\CalculoPerimetroPoligono.cs",
-              "RelativeDocumentMoniker": "CursoUdemySeccion2\\CalculoPerimetroPoligono.cs",
-              "ToolTip": "C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\CursoUdemySeccion2\\CalculoPerimetroPoligono.cs",
-              "RelativeToolTip": "CursoUdemySeccion2\\CalculoPerimetroPoligono.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T09:18:00.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CalculoAreaPerimetro.cs",
-              "DocumentMoniker": "C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\CursoUdemySeccion2\\CalculoAreaPerimetro.cs",
-              "RelativeDocumentMoniker": "CursoUdemySeccion2\\CalculoAreaPerimetro.cs",
-              "ToolTip": "C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\CursoUdemySeccion2\\CalculoAreaPerimetro.cs",
-              "RelativeToolTip": "CursoUdemySeccion2\\CalculoAreaPerimetro.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T08:59:45.441Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "VariablesEjemplos.cs",
-              "DocumentMoniker": "C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\CursoUdemySeccion2\\VariablesEjemplos.cs",
-              "RelativeDocumentMoniker": "CursoUdemySeccion2\\VariablesEjemplos.cs",
-              "ToolTip": "C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\CursoUdemySeccion2\\VariablesEjemplos.cs",
-              "RelativeToolTip": "CursoUdemySeccion2\\VariablesEjemplos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T08:55:38.579Z"
             },
             {
               "$type": "Document",
@@ -106,14 +57,14 @@
               "RelativeDocumentMoniker": "CursoUdemySeccion2\\Program.cs",
               "ToolTip": "C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\CursoUdemySeccion2\\Program.cs",
               "RelativeToolTip": "CursoUdemySeccion2\\Program.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAEQAAABDAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAEgAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T10:09:59.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "ConversionesSinString.cs",
               "DocumentMoniker": "C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\CursoUdemySeccion2\\ConversionesSinString.cs",
               "RelativeDocumentMoniker": "CursoUdemySeccion2\\ConversionesSinString.cs",
@@ -125,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "ConversionExplicacion.cs",
               "DocumentMoniker": "C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\CursoUdemySeccion2\\ConversionExplicacion.cs",
               "RelativeDocumentMoniker": "CursoUdemySeccion2\\ConversionExplicacion.cs",
@@ -137,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Documentaci\u00F3n.txt",
               "DocumentMoniker": "C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\CursoUdemySeccion2\\Documentaci\u00F3n.txt",
               "RelativeDocumentMoniker": "CursoUdemySeccion2\\Documentaci\u00F3n.txt",
@@ -149,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "ConvertirCadenaTipoNumerico.cs",
               "DocumentMoniker": "C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\CursoUdemySeccion2\\ConvertirCadenaTipoNumerico.cs",
               "RelativeDocumentMoniker": "CursoUdemySeccion2\\ConvertirCadenaTipoNumerico.cs",

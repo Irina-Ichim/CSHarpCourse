@@ -11,62 +11,66 @@ namespace CursoUdemySeccion2
         static void Main(string[] args)
         {
             // Crear una instancia de la clase OperadoresJerarquia
-            OperadoresJerarquia operadores = new OperadoresJerarquia();
+            //OperadoresJerarquia operadores = new OperadoresJerarquia();
 
             // Llamar al método que ejecuta los ejemplos de operadores
-            operadores.EjecutarEjemplos();
+            // operadores.EjecutarEjemplos();
 
             // Crear una instancia de la clase PasosHorneado
-            PasosHorneado pasosHorneado = new PasosHorneado();
+            //PasosHorneado pasosHorneado = new PasosHorneado();
 
             // Llamar al método que muestra los pasos de horneado
-            pasosHorneado.MostrarPasos();
+            //pasosHorneado.MostrarPasos();
 
             // Crear una instancia de la clase VariablesEjemplos
-            VariablesEjemplos variablesEjemplos = new VariablesEjemplos();
+            //VariablesEjemplos variablesEjemplos = new VariablesEjemplos();
 
             // Llamar al método que muestra los ejemplos de variables
-            variablesEjemplos.MostrarEjemplos();
+            //variablesEjemplos.MostrarEjemplos();
 
             // Crear una instancia de la clase ReadLine
-            ReadLine readline = new ReadLine();
-            readline.PreguntarNombre();
+            //ReadLine readline = new ReadLine();
+            //readline.PreguntarNombre();
 
             // Crear una instancia de la clase ConvertirCadenaTipoNumerico
-            ConvertirCadenaTipoNumerico convertir = new ConvertirCadenaTipoNumerico();
+            // ConvertirCadenaTipoNumerico convertir = new ConvertirCadenaTipoNumerico();
 
             // Llamar a los métodos para probar las diferentes conversiones
-            convertir.SumarNumeroConConvert();
-            convertir.SumarNumeroConParse();
-            convertir.SumarNumeroConTryParse();
+            //convertir.SumarNumeroConConvert();
+            //convertir.SumarNumeroConParse();
+            //convertir.SumarNumeroConTryParse();
 
             // Crear una instancia de la clase ConversionExplicacion
-            ConversionExplicacion conversionExplicacion = new ConversionExplicacion();
+            //ConversionExplicacion conversionExplicacion = new ConversionExplicacion();
 
             // Llamar a los métodos para probar las diferentes conversiones con explicaciones
-            conversionExplicacion.SumarNumeroConConvert();
-            conversionExplicacion.SumarNumeroConParse();
-            conversionExplicacion.SumarNumeroConTryParse();
+            //conversionExplicacion.SumarNumeroConConvert();
+            //conversionExplicacion.SumarNumeroConParse();
+            //conversionExplicacion.SumarNumeroConTryParse();
 
             // Crear una instancia de la clase ConversionesSinString
-            ConversionesSinString conversiones = new ConversionesSinString();
+            //ConversionesSinString conversiones = new ConversionesSinString();
 
             // Llamar a los métodos para probar las diferentes conversiones
-            conversiones.SumarNumeroConConvert();
-            conversiones.SumarNumeroConParse();
-            conversiones.SumarNumeroConTryParse();
+            //conversiones.SumarNumeroConConvert();
+            //conversiones.SumarNumeroConParse();
+            //conversiones.SumarNumeroConTryParse();
 
             // Crear una instancia de la clase CalculoAreaPerimetro
-            CalculoAreaPerimetro calculo = new CalculoAreaPerimetro();
-            calculo.EjecutarCalculo();
+            //CalculoAreaPerimetro calculo = new CalculoAreaPerimetro();
+            // calculo.EjecutarCalculo();
 
             // Crear una instancia de la clase CalculoPerimetroPoligono
-            CalculoPerimetroPoligono calculoPoligono = new CalculoPerimetroPoligono();
-            calculoPoligono.CalcularPerimetro();
+            //CalculoPerimetroPoligono calculoPoligono = new CalculoPerimetroPoligono();
+            //calculoPoligono.CalcularPerimetro();
 
             // Crear una instancia de la clase TransformacionGrados
-            TransformacionGrados transformacionGrados = new TransformacionGrados();
-            transformacionGrados.ConvertirCentigradosAFahrenheit();
+            // TransformacionGrados transformacionGrados = new TransformacionGrados();
+            //transformacionGrados.ConvertirCentigradosAFahrenheit();
+
+            // Crear una instancia de la clase OperadoresBoolIgualdad
+            Decisiones.OperadoresBoolIgualdad operadoresBoolIgualdad = new Decisiones.OperadoresBoolIgualdad();
+            operadoresBoolIgualdad.ExplicarOperadores();
 
             // Mantener la consola abierta
             Console.WriteLine("Presiona cualquier tecla para salir...");
