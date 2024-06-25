@@ -74,8 +74,12 @@ namespace CursoUdemySeccion2
             operadoresBoolIgualdad.ExplicarOperadores();
 
             // Crear una instancia de la clase Condicionales
-            Decisiones.Condicionales condicionales = new Decisiones.Condicionales();
-            condicionales.ExplicarCondicionales();
+            //Decisiones.Condicionales condicionales = new Decisiones.Condicionales();
+            //condicionales.ExplicarCondicionales();
+
+            // Crear una instancia de la clase TiendaCosmeticos
+            Tienda.TiendaCosmeticos tienda = new Tienda.TiendaCosmeticos();
+            tienda.Ejecutar();
 
             // Mantener la consola abierta
             Console.WriteLine("Presiona cualquier tecla para salir...");
