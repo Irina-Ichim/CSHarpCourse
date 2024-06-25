@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.ConstrainedExecution;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -71,6 +72,10 @@ namespace CursoUdemySeccion2
             // Crear una instancia de la clase OperadoresBoolIgualdad
             Decisiones.OperadoresBoolIgualdad operadoresBoolIgualdad = new Decisiones.OperadoresBoolIgualdad();
             operadoresBoolIgualdad.ExplicarOperadores();
+
+            // Crear una instancia de la clase Condicionales
+            Decisiones.Condicionales condicionales = new Decisiones.Condicionales();
+            condicionales.ExplicarCondicionales();
 
             // Mantener la consola abierta
             Console.WriteLine("Presiona cualquier tecla para salir...");

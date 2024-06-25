@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FD5A9BF8-9E6B-46A5-8587-08FFE77BC09E}|CursoUdemySeccion2\\CursoUdemySeccion2.csproj|c:\\users\\proye\\source\\repos\\cursoudemyseccion2\\cursoudemyseccion2\\decisiones\\condicionales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD5A9BF8-9E6B-46A5-8587-08FFE77BC09E}|CursoUdemySeccion2\\CursoUdemySeccion2.csproj|solutionrelative:cursoudemyseccion2\\decisiones\\condicionales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FD5A9BF8-9E6B-46A5-8587-08FFE77BC09E}|CursoUdemySeccion2\\CursoUdemySeccion2.csproj|c:\\users\\proye\\source\\repos\\cursoudemyseccion2\\cursoudemyseccion2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD5A9BF8-9E6B-46A5-8587-08FFE77BC09E}|CursoUdemySeccion2\\CursoUdemySeccion2.csproj|solutionrelative:cursoudemyseccion2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD5A9BF8-9E6B-46A5-8587-08FFE77BC09E}|CursoUdemySeccion2\\CursoUdemySeccion2.csproj|c:\\users\\proye\\source\\repos\\cursoudemyseccion2\\cursoudemyseccion2\\decisiones\\operadoresbooligualdad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD5A9BF8-9E6B-46A5-8587-08FFE77BC09E}|CursoUdemySeccion2\\CursoUdemySeccion2.csproj|solutionrelative:cursoudemyseccion2\\decisiones\\operadoresbooligualdad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FD5A9BF8-9E6B-46A5-8587-08FFE77BC09E}|CursoUdemySeccion2\\CursoUdemySeccion2.csproj|C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\cursoudemyseccion2\\documentaci\u00F3n.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{FD5A9BF8-9E6B-46A5-8587-08FFE77BC09E}|CursoUdemySeccion2\\CursoUdemySeccion2.csproj|solutionrelative:cursoudemyseccion2\\documentaci\u00F3n.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5A9BF8-9E6B-46A5-8587-08FFE77BC09E}|CursoUdemySeccion2\\CursoUdemySeccion2.csproj|C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\cursoudemyseccion2\\decisiones\\operadoresbooligualdad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD5A9BF8-9E6B-46A5-8587-08FFE77BC09E}|CursoUdemySeccion2\\CursoUdemySeccion2.csproj|solutionrelative:cursoudemyseccion2\\decisiones\\operadoresbooligualdad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD5A9BF8-9E6B-46A5-8587-08FFE77BC09E}|CursoUdemySeccion2\\CursoUdemySeccion2.csproj|C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\cursoudemyseccion2\\conversionessinstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Condicionales.cs",
+              "DocumentMoniker": "C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\CursoUdemySeccion2\\Decisiones\\Condicionales.cs",
+              "RelativeDocumentMoniker": "CursoUdemySeccion2\\Decisiones\\Condicionales.cs",
+              "ToolTip": "C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\CursoUdemySeccion2\\Decisiones\\Condicionales.cs",
+              "RelativeToolTip": "CursoUdemySeccion2\\Decisiones\\Condicionales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T10:18:41.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "OperadoresBoolIgualdad.cs",
               "DocumentMoniker": "C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\CursoUdemySeccion2\\Decisiones\\OperadoresBoolIgualdad.cs",
               "RelativeDocumentMoniker": "CursoUdemySeccion2\\Decisiones\\OperadoresBoolIgualdad.cs",
@@ -46,25 +63,24 @@
               "RelativeToolTip": "CursoUdemySeccion2\\Decisiones\\OperadoresBoolIgualdad.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAAAswDMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T09:57:34.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T09:57:34.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\CursoUdemySeccion2\\Program.cs",
               "RelativeDocumentMoniker": "CursoUdemySeccion2\\Program.cs",
               "ToolTip": "C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\CursoUdemySeccion2\\Program.cs",
               "RelativeToolTip": "CursoUdemySeccion2\\Program.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAAAEgAAAA4AAAA",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAEsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T10:09:59.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ConversionesSinString.cs",
               "DocumentMoniker": "C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\CursoUdemySeccion2\\ConversionesSinString.cs",
               "RelativeDocumentMoniker": "CursoUdemySeccion2\\ConversionesSinString.cs",
@@ -76,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ConversionExplicacion.cs",
               "DocumentMoniker": "C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\CursoUdemySeccion2\\ConversionExplicacion.cs",
               "RelativeDocumentMoniker": "CursoUdemySeccion2\\ConversionExplicacion.cs",
@@ -94,13 +110,14 @@
               "RelativeDocumentMoniker": "CursoUdemySeccion2\\Documentaci\u00F3n.txt",
               "ToolTip": "C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\CursoUdemySeccion2\\Documentaci\u00F3n.txt",
               "RelativeToolTip": "CursoUdemySeccion2\\Documentaci\u00F3n.txt",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAADsAAAADAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAD4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-06-17T10:05:38.442Z"
+              "WhenOpened": "2024-06-17T10:05:38.442Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ConvertirCadenaTipoNumerico.cs",
               "DocumentMoniker": "C:\\Users\\proye\\source\\repos\\CursoUdemySeccion2\\CursoUdemySeccion2\\ConvertirCadenaTipoNumerico.cs",
               "RelativeDocumentMoniker": "CursoUdemySeccion2\\ConvertirCadenaTipoNumerico.cs",

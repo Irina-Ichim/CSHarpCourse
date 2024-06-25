@@ -48,6 +48,7 @@
     <Compile Include="ConversionesSinString.cs" />
     <Compile Include="ConversionExplicacion.cs" />
     <Compile Include="ConvertirCadenaTipoNumerico.cs" />
+    <Compile Include="Decisiones\Condicionales.cs" />
     <Compile Include="Decisiones\OperadoresBoolIgualdad.cs" />
     <Compile Include="OperadoresJerarquia.cs" />
     <Compile Include="PasosHorneado.cs" />

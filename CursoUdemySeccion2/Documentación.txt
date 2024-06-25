@@ -58,3 +58,7 @@ Escribir (" El area es: ", area)
 Escribir("El parametro es: ", perimetro)
 
 FIN
+
+
+//Keyword C#
+https://learn.microsoft.com/es-mx/dotnet/csharp/language-reference/keywords/
