@@ -60,6 +60,14 @@ namespace CursoUdemySeccion2
             CalculoAreaPerimetro calculo = new CalculoAreaPerimetro();
             calculo.EjecutarCalculo();
 
+            // Crear una instancia de la clase CalculoPerimetroPoligono
+            CalculoPerimetroPoligono calculoPoligono = new CalculoPerimetroPoligono();
+            calculoPoligono.CalcularPerimetro();
+
+            // Crear una instancia de la clase TransformacionGrados
+            TransformacionGrados transformacionGrados = new TransformacionGrados();
+            transformacionGrados.ConvertirCentigradosAFahrenheit();
+
             // Mantener la consola abierta
             Console.WriteLine("Presiona cualquier tecla para salir...");
             Console.ReadKey();

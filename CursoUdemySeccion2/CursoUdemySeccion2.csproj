@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CalculoAreaPerimetro.cs" />
+    <Compile Include="CalculoPerimetroPoligono.cs" />
     <Compile Include="ConversionesSinString.cs" />
     <Compile Include="ConversionExplicacion.cs" />
     <Compile Include="ConvertirCadenaTipoNumerico.cs" />
@@ -52,6 +53,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReadLine.cs" />
+    <Compile Include="TransformacionGrados.cs" />
     <Compile Include="VariablesEjemplos.cs" />
   </ItemGroup>
   <ItemGroup>
