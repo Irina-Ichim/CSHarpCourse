@@ -95,12 +95,29 @@ namespace CursoUdemySeccion2
             //explicarBucles.ExplicarDoWhile();
 
             // Crear una instancia de la clase CombinarCondiciones
-            Ciclos.CombinarCondiciones combinarCondiciones = new Ciclos.CombinarCondiciones();
+           // Ciclos.CombinarCondiciones combinarCondiciones = new Ciclos.CombinarCondiciones();
 
             // Llamar a los métodos para explicar la combinación de condiciones
-            combinarCondiciones.ExplicarCondicionesWhile();
-            combinarCondiciones.ExplicarCondicionesFor();
-            combinarCondiciones.ExplicarCondicionesIf();
+           // combinarCondiciones.ExplicarCondicionesWhile();
+            //combinarCondiciones.ExplicarCondicionesFor();
+            //combinarCondiciones.ExplicarCondicionesIf();
+
+            // Crear una instancia de la clase ContadorEjemplo
+            Ciclos.ContadorEjemplo contadorEjemplo = new Ciclos.ContadorEjemplo();
+
+            // Llamar a los métodos para mostrar el uso de contadores
+            contadorEjemplo.ContadorFor();
+            contadorEjemplo.ContadorWhile();
+            contadorEjemplo.ContadorEnContexto();
+
+
+            // Crear una instancia de la clase AcumuladorEjemplo
+            Ciclos.AcumuladorEjemplo acumuladorEjemplo = new Ciclos.AcumuladorEjemplo();
+
+            // Llamar a los métodos para mostrar el uso de acumuladores
+            acumuladorEjemplo.AcumuladorFor();
+            acumuladorEjemplo.AcumuladorWhile();
+            acumuladorEjemplo.AcumuladorEnContexto();
 
             // Mantener la consola abierta
             Console.WriteLine("Presiona cualquier tecla para salir...");
