@@ -103,21 +103,42 @@ namespace CursoUdemySeccion2
             //combinarCondiciones.ExplicarCondicionesIf();
 
             // Crear una instancia de la clase ContadorEjemplo
-            Ciclos.ContadorEjemplo contadorEjemplo = new Ciclos.ContadorEjemplo();
+           // Ciclos.ContadorEjemplo contadorEjemplo = new Ciclos.ContadorEjemplo();
 
             // Llamar a los métodos para mostrar el uso de contadores
-            contadorEjemplo.ContadorFor();
-            contadorEjemplo.ContadorWhile();
-            contadorEjemplo.ContadorEnContexto();
+           // contadorEjemplo.ContadorFor();
+            // contadorEjemplo.ContadorWhile();
+           // contadorEjemplo.ContadorEnContexto();
 
 
             // Crear una instancia de la clase AcumuladorEjemplo
-            Ciclos.AcumuladorEjemplo acumuladorEjemplo = new Ciclos.AcumuladorEjemplo();
+            //Ciclos.AcumuladorEjemplo acumuladorEjemplo = new Ciclos.AcumuladorEjemplo();
 
             // Llamar a los métodos para mostrar el uso de acumuladores
-            acumuladorEjemplo.AcumuladorFor();
-            acumuladorEjemplo.AcumuladorWhile();
-            acumuladorEjemplo.AcumuladorEnContexto();
+            //acumuladorEjemplo.AcumuladorFor();
+            //acumuladorEjemplo.AcumuladorWhile();
+            //acumuladorEjemplo.AcumuladorEnContexto();
+
+            // Crear una instancia de la clase IteracionAnidada
+            //Ciclos.IteracionAnidada iteracionAnidada = new Ciclos.IteracionAnidada();
+
+            // Llamar a los métodos para mostrar el uso de bucles anidados
+            //iteracionAnidada.ForAnidado();
+            //iteracionAnidada.WhileAnidado();
+            //iteracionAnidada.ForeachAnidado();
+            //iteracionAnidada.ForeachAnidadoConListas();
+
+            // Crear una instancia de la clase FactorialEjemplo
+            Ciclos.FactorialEjemplo factorialEjemplo = new Ciclos.FactorialEjemplo();
+
+            // Calcular y mostrar el factorial de un número utilizando el método iterativo
+            int numero = 5;
+            int resultadoIterativo = factorialEjemplo.FactorialIterativo(numero);
+            Console.WriteLine($"Factorial iterativo de {numero} es {resultadoIterativo}");
+
+            // Calcular y mostrar el factorial de un número utilizando el método recursivo
+            int resultadoRecursivo = factorialEjemplo.FactorialRecursivo(numero);
+            Console.WriteLine($"Factorial recursivo de {numero} es {resultadoRecursivo}");
 
             // Mantener la consola abierta
             Console.WriteLine("Presiona cualquier tecla para salir...");

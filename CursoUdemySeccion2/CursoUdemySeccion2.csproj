@@ -49,7 +49,9 @@
     <Compile Include="Ciclos\CombinarCondiciones.cs" />
     <Compile Include="Ciclos\ContadorEjemplo.cs" />
     <Compile Include="Ciclos\ExplicarBucles.cs" />
+    <Compile Include="Ciclos\FactorialEjemplo.cs" />
     <Compile Include="Ciclos\IncrementoDecremento.cs" />
+    <Compile Include="Ciclos\IteracionAnidada.cs" />
     <Compile Include="ConversionesSinString.cs" />
     <Compile Include="ConversionExplicacion.cs" />
     <Compile Include="ConvertirCadenaTipoNumerico.cs" />

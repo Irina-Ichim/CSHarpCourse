@@ -76,3 +76,20 @@ Inicialización y actualización:
 
 En un for, la inicialización, la condición y la actualización de la variable de control están en la misma línea, lo que hace que sea más conciso y fácil de leer para bucles con un número fijo de iteraciones.
 En un while, la inicialización y la actualización deben hacerse dentro del cuerpo del bucle o antes y después, respectivamente, lo que puede ser más flexible para condiciones complejas.
+
+
+El factorial de un número entero positivo 𝑛 ,n (denotado como n!) es el producto de todos los números enteros positivos desde 1 hasta 𝑛
+Por ejemplo:
+5! = 5 * 4 * 3 * 2 * 1 = 120
+4! = 4 * 3 * 2 * 1 = 24
+0! = 1
+
+
+//Factorial Iterativo:
+
+Se utiliza un bucle for para multiplicar todos los números desde 1 hasta n.
+Es eficiente y fácil de entender, pero puede ser menos intuitivo para problemas que se prestan naturalmente a una definición recursiva.
+
+//Factorial Recursivo:
+La función se llama a sí misma con n-1 hasta que n sea 0.
+Es más elegante y más fácil de entender para algunos problemas, pero puede ser menos eficiente debido a la sobrecarga de llamadas recursivas.
