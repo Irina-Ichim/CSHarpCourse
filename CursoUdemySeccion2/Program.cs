@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Ciclos;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.ConstrainedExecution;
@@ -70,21 +71,36 @@ namespace CursoUdemySeccion2
             //transformacionGrados.ConvertirCentigradosAFahrenheit();
 
             // Crear una instancia de la clase OperadoresBoolIgualdad
-           // Decisiones.OperadoresBoolIgualdad operadoresBoolIgualdad = new Decisiones.OperadoresBoolIgualdad();
-           // operadoresBoolIgualdad.ExplicarOperadores();
+            // Decisiones.OperadoresBoolIgualdad operadoresBoolIgualdad = new Decisiones.OperadoresBoolIgualdad();
+            // operadoresBoolIgualdad.ExplicarOperadores();
 
             // Crear una instancia de la clase Condicionales
             //Decisiones.Condicionales condicionales = new Decisiones.Condicionales();
             //condicionales.ExplicarCondicionales();
 
             // Crear una instancia de la clase TiendaCosmeticos
-           // Tienda.TiendaCosmeticos tienda = new Tienda.TiendaCosmeticos();
-           // tienda.Ejecutar();
+            // Tienda.TiendaCosmeticos tienda = new Tienda.TiendaCosmeticos();
+            // tienda.Ejecutar();
 
             // Crear una instancia de la clase IncrementoDecremento
-            Ciclos.IncrementoDecremento incrementoDecremento = new Ciclos.IncrementoDecremento();
-            incrementoDecremento.ExplicarOperadores();
+            // Ciclos.IncrementoDecremento incrementoDecremento = new Ciclos.IncrementoDecremento();
+            //incrementoDecremento.ExplicarOperadores();
 
+            // Crear una instancia de la clase ExplicarBucles
+            //Ciclos.ExplicarBucles explicarBucles = new Ciclos.ExplicarBucles();
+
+            // Llamar a los métodos para explicar los bucles
+            //explicarBucles.ExplicarFor();
+            //explicarBucles.ExplicarWhile();
+            //explicarBucles.ExplicarDoWhile();
+
+            // Crear una instancia de la clase CombinarCondiciones
+            Ciclos.CombinarCondiciones combinarCondiciones = new Ciclos.CombinarCondiciones();
+
+            // Llamar a los métodos para explicar la combinación de condiciones
+            combinarCondiciones.ExplicarCondicionesWhile();
+            combinarCondiciones.ExplicarCondicionesFor();
+            combinarCondiciones.ExplicarCondicionesIf();
 
             // Mantener la consola abierta
             Console.WriteLine("Presiona cualquier tecla para salir...");

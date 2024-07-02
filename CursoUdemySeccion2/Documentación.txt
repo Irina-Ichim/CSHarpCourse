@@ -62,3 +62,17 @@ FIN
 
 //Keyword C#
 https://learn.microsoft.com/es-mx/dotnet/csharp/language-reference/keywords/
+
+
+
+//Bucle for
+El bucle for es más adecuado cuando conoces de antemano el número de iteraciones que necesitas realizar. Se utiliza principalmente cuando hay una variable de control que se inicializa, se evalúa en una condición y se incrementa/decrementa en cada iteración.
+
+//Bucle while
+El bucle while se usa cuando no se conoce de antemano cuántas veces se ejecutará el bucle. La condición se evalúa antes de cada iteración, y el bucle continúa ejecutándose mientras la condición sea verdadera. Es útil cuando las iteraciones dependen de una condición que puede cambiar dentro del bucle.
+
+//Diferencias clave entre for y while:
+Inicialización y actualización:
+
+En un for, la inicialización, la condición y la actualización de la variable de control están en la misma línea, lo que hace que sea más conciso y fácil de leer para bucles con un número fijo de iteraciones.
+En un while, la inicialización y la actualización deben hacerse dentro del cuerpo del bucle o antes y después, respectivamente, lo que puede ser más flexible para condiciones complejas.
