@@ -70,16 +70,21 @@ namespace CursoUdemySeccion2
             //transformacionGrados.ConvertirCentigradosAFahrenheit();
 
             // Crear una instancia de la clase OperadoresBoolIgualdad
-            Decisiones.OperadoresBoolIgualdad operadoresBoolIgualdad = new Decisiones.OperadoresBoolIgualdad();
-            operadoresBoolIgualdad.ExplicarOperadores();
+           // Decisiones.OperadoresBoolIgualdad operadoresBoolIgualdad = new Decisiones.OperadoresBoolIgualdad();
+           // operadoresBoolIgualdad.ExplicarOperadores();
 
             // Crear una instancia de la clase Condicionales
             //Decisiones.Condicionales condicionales = new Decisiones.Condicionales();
             //condicionales.ExplicarCondicionales();
 
             // Crear una instancia de la clase TiendaCosmeticos
-            Tienda.TiendaCosmeticos tienda = new Tienda.TiendaCosmeticos();
-            tienda.Ejecutar();
+           // Tienda.TiendaCosmeticos tienda = new Tienda.TiendaCosmeticos();
+           // tienda.Ejecutar();
+
+            // Crear una instancia de la clase IncrementoDecremento
+            Ciclos.IncrementoDecremento incrementoDecremento = new Ciclos.IncrementoDecremento();
+            incrementoDecremento.ExplicarOperadores();
+
 
             // Mantener la consola abierta
             Console.WriteLine("Presiona cualquier tecla para salir...");

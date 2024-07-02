@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="CalculoAreaPerimetro.cs" />
     <Compile Include="CalculoPerimetroPoligono.cs" />
+    <Compile Include="Ciclos\IncrementoDecremento.cs" />
     <Compile Include="ConversionesSinString.cs" />
     <Compile Include="ConversionExplicacion.cs" />
     <Compile Include="ConvertirCadenaTipoNumerico.cs" />
