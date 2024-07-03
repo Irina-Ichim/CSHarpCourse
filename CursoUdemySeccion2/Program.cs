@@ -95,20 +95,20 @@ namespace CursoUdemySeccion2
             //explicarBucles.ExplicarDoWhile();
 
             // Crear una instancia de la clase CombinarCondiciones
-           // Ciclos.CombinarCondiciones combinarCondiciones = new Ciclos.CombinarCondiciones();
+            // Ciclos.CombinarCondiciones combinarCondiciones = new Ciclos.CombinarCondiciones();
 
             // Llamar a los métodos para explicar la combinación de condiciones
-           // combinarCondiciones.ExplicarCondicionesWhile();
+            // combinarCondiciones.ExplicarCondicionesWhile();
             //combinarCondiciones.ExplicarCondicionesFor();
             //combinarCondiciones.ExplicarCondicionesIf();
 
             // Crear una instancia de la clase ContadorEjemplo
-           // Ciclos.ContadorEjemplo contadorEjemplo = new Ciclos.ContadorEjemplo();
+            // Ciclos.ContadorEjemplo contadorEjemplo = new Ciclos.ContadorEjemplo();
 
             // Llamar a los métodos para mostrar el uso de contadores
-           // contadorEjemplo.ContadorFor();
+            // contadorEjemplo.ContadorFor();
             // contadorEjemplo.ContadorWhile();
-           // contadorEjemplo.ContadorEnContexto();
+            // contadorEjemplo.ContadorEnContexto();
 
 
             // Crear una instancia de la clase AcumuladorEjemplo
@@ -129,17 +129,31 @@ namespace CursoUdemySeccion2
             //iteracionAnidada.ForeachAnidadoConListas();
 
             // Crear una instancia de la clase FactorialEjemplo
-            Ciclos.FactorialEjemplo factorialEjemplo = new Ciclos.FactorialEjemplo();
+            //Ciclos.FactorialEjemplo factorialEjemplo = new Ciclos.FactorialEjemplo();
 
             // Calcular y mostrar el factorial de un número utilizando el método iterativo
-            int numero = 5;
-            int resultadoIterativo = factorialEjemplo.FactorialIterativo(numero);
-            Console.WriteLine($"Factorial iterativo de {numero} es {resultadoIterativo}");
+            // int numero = 5;
+            // int resultadoIterativo = factorialEjemplo.FactorialIterativo(numero);
+            //Console.WriteLine($"Factorial iterativo de {numero} es {resultadoIterativo}");
 
             // Calcular y mostrar el factorial de un número utilizando el método recursivo
-            int resultadoRecursivo = factorialEjemplo.FactorialRecursivo(numero);
-            Console.WriteLine($"Factorial recursivo de {numero} es {resultadoRecursivo}");
+            //int resultadoRecursivo = factorialEjemplo.FactorialRecursivo(numero);
+            //Console.WriteLine($"Factorial recursivo de {numero} es {resultadoRecursivo}");
 
+            // Crear una instancia de la clase CalcularPotencia
+            Matematicas.CalcularPotencia calcularPotencia = new Matematicas.CalcularPotencia();
+
+            // Calcular y mostrar la potencia de un número
+            double baseNumero = 2.0;
+            int exponente = -3;
+            double resultadoPotencia = calcularPotencia.Potencia(baseNumero, exponente);
+            Console.WriteLine($"La potencia de {baseNumero} elevado a {exponente} es {resultadoPotencia}");
+
+            // Crear una instancia de la clase NumerosPrimos
+            Matematicas.NumerosPrimos numerosPrimos = new Matematicas.NumerosPrimos();
+
+            // Mostrar los números primos entre 1 y 100
+            numerosPrimos.MostrarNumerosPrimos();
             // Mantener la consola abierta
             Console.WriteLine("Presiona cualquier tecla para salir...");
             Console.ReadKey();

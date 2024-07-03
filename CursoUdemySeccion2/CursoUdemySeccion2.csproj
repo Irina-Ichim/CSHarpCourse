@@ -46,12 +46,14 @@
     <Compile Include="CalculoAreaPerimetro.cs" />
     <Compile Include="CalculoPerimetroPoligono.cs" />
     <Compile Include="Ciclos\AcumuladorEjemplo.cs" />
+    <Compile Include="Ciclos\CalcularPotencia.cs" />
     <Compile Include="Ciclos\CombinarCondiciones.cs" />
     <Compile Include="Ciclos\ContadorEjemplo.cs" />
     <Compile Include="Ciclos\ExplicarBucles.cs" />
     <Compile Include="Ciclos\FactorialEjemplo.cs" />
     <Compile Include="Ciclos\IncrementoDecremento.cs" />
     <Compile Include="Ciclos\IteracionAnidada.cs" />
+    <Compile Include="Ciclos\NumerosPrimos.cs" />
     <Compile Include="ConversionesSinString.cs" />
     <Compile Include="ConversionExplicacion.cs" />
     <Compile Include="ConvertirCadenaTipoNumerico.cs" />
